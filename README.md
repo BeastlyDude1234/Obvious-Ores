@@ -1,4 +1,7 @@
 # Obvious Ores
+
+### [Modrinth Link Here](https://modrinth.com/resourcepack/obvious-ores)
+
 This resource pack was created to make ores easier to see while caving and mining. The textures are not necessarily designed for looks but more so for functionality. (If you want one that looks a little nicer I plan on releasing an outlined ores resource pack sometime.)
 
 ## Compatibility
