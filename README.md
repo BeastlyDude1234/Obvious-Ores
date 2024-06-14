@@ -1,11 +1,11 @@
-# Obvious Ores
+<h1 align="center">Obvious Ores</h1>
 
-### [Modrinth Link Here](https://modrinth.com/resourcepack/obvious-ores)
+<p align="center"><a href="https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack">Installation</a> • <a href="https://github.com/BeastlyDude1234/Obvious-Ores/issues">Issues</a> • <a href="https://github.com/BeastlyDude1234">More</a></p>
 
 This resource pack was created to make ores easier to see while caving and mining. The textures are not necessarily designed for looks but more so for functionality. (If you want one that looks a little nicer I plan on releasing an outlined ores resource pack sometime.)
 
-## Compatibility
-
-⚠️ **I am working on an update for the most recent versions.** Microsoft changed something in the newest versions that makes this one incompatible.
-
-This resource pack will work with 1.20 and should work with _most_ versions prior to 1.20. Just ignore the incompatibility warning in the resource pack selection menu.
+<details>
+<summary>Compatibility</summary>
+<br>
+This resource pack will work with 1.20 and should work with <i>most</i> versions prior to 1.20. Just ignore the incompatibility warning in the resource pack selection menu.
+</details>
