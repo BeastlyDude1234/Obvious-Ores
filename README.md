@@ -1,4 +1,4 @@
-<h1 align="center">Obvious Ores</h1>
+<h2 align="center">Obvious Ores</h2>
 
 <p align="center"><a href="https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack">Installation</a> • <a href="https://github.com/BeastlyDude1234/Obvious-Ores/issues">Issues</a> • <a href="https://github.com/BeastlyDude1234">More</a></p>
 
